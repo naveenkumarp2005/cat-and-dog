@@ -52,7 +52,7 @@ print(path)
 
 ```bash
 git clone https://github.com/naveenkumarp2005/cat-and-dog.git
-cd cat-vs-dog-classification
+cd cat-and-dog
 ```
 
 ### 2. Install dependencies
